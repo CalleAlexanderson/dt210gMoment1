@@ -1,0 +1,83 @@
+﻿[
+  {
+    "title": "A Court of Thorns and Roses",
+    "rating": 9,
+    "finished": true
+  },
+  {
+    "title": "A Court of Mist and Fury",
+    "rating": 10,
+    "finished": true
+  },
+  {
+    "title": "A Court of Wings and Ruin",
+    "rating": 10,
+    "finished": true
+  },
+  {
+    "title": "A Court of Frost and Starligt",
+    "rating": 7,
+    "finished": true
+  },
+  {
+    "title": "A Court of Silver Flames",
+    "rating": 10,
+    "finished": true
+  },
+  {
+    "title": "The Assassin's Blade",
+    "rating": 8,
+    "finished": true
+  },
+  {
+    "title": "Throne of Glass",
+    "rating": 9,
+    "finished": true
+  },
+  {
+    "title": "Crown of Midnight",
+    "rating": 9,
+    "finished": true
+  },
+  {
+    "title": "Heir of Fire",
+    "rating": 10,
+    "finished": true
+  },
+  {
+    "title": "Queen of Shadows",
+    "rating": 9,
+    "finished": true
+  },
+  {
+    "title": "Empire of Storms",
+    "rating": 9,
+    "finished": true
+  },
+  {
+    "title": "Tower of Dawn",
+    "rating": 8,
+    "finished": true
+  },
+  {
+    "title": "Kingdom of Ash",
+    "rating": 9,
+    "finished": true
+  },
+  {
+    "title": "House of Earth and Blood",
+    "rating": 9,
+    "finished": true
+  },
+  {
+    "title": "House of Sky and Breath",
+    "rating": 9,
+    "finished": true
+  },
+  {
+    "title": "House of Flame and Shadow",
+    "rating": 0,
+    "finished": false
+  }
+
+]
