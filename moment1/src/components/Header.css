@@ -1,0 +1,12 @@
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #12b692;
+}
+
+img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+}
