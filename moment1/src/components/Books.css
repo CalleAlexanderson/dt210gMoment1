@@ -1,0 +1,48 @@
+main {
+    max-width: 1000px;
+    margin: 0 auto 80px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.main-title {
+    width: 90%;
+    max-width: 500px;
+    margin: 0 auto 30px;
+    font-size: 1.2rem;
+}
+
+article {
+    width: 70%;
+    max-width: 300px;
+    border: 1px solid black;
+    margin: 10px auto;
+}
+
+article > * {
+    padding: 2px 5px;
+}
+
+h3 {
+    margin-bottom: 5x;
+}
+
+@media only screen and (min-width: 600px) {
+    .main-books {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    article {
+        width: 95%;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .main-books {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}

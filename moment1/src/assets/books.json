@@ -1,81 +1,96 @@
 ﻿[
   {
-    "title": "A Court of Thorns and Roses",
-    "rating": 9,
-    "finished": true
-  },
-  {
-    "title": "A Court of Mist and Fury",
-    "rating": 10,
-    "finished": true
-  },
-  {
-    "title": "A Court of Wings and Ruin",
-    "rating": 10,
-    "finished": true
-  },
-  {
-    "title": "A Court of Frost and Starligt",
-    "rating": 7,
-    "finished": true
-  },
-  {
-    "title": "A Court of Silver Flames",
-    "rating": 10,
-    "finished": true
-  },
-  {
     "title": "The Assassin's Blade",
+    "series": "Throne of Glass series",
     "rating": 8,
     "finished": true
   },
   {
     "title": "Throne of Glass",
+    "series": "Throne of Glass series",
     "rating": 9,
     "finished": true
   },
   {
     "title": "Crown of Midnight",
+    "series": "Throne of Glass series",
     "rating": 9,
     "finished": true
   },
   {
     "title": "Heir of Fire",
+    "series": "Throne of Glass series",
     "rating": 10,
     "finished": true
   },
   {
     "title": "Queen of Shadows",
+    "series": "Throne of Glass series",
     "rating": 9,
     "finished": true
   },
   {
     "title": "Empire of Storms",
+    "series": "Throne of Glass series",
     "rating": 9,
     "finished": true
   },
   {
     "title": "Tower of Dawn",
+    "series": "Throne of Glass series",
     "rating": 8,
     "finished": true
   },
   {
     "title": "Kingdom of Ash",
+    "series": "Throne of Glass series",
+    "rating": 9,
+    "finished": true
+  },{
+    "title": "A Court of Thorns and Roses",
+    "series": "A Court of Thorns and Roses series",
     "rating": 9,
     "finished": true
   },
   {
+    "title": "A Court of Mist and Fury",
+    "series": "A Court of Thorns and Roses series",
+    "rating": 10,
+    "finished": true
+  },
+  {
+    "title": "A Court of Wings and Ruin",
+    "series": "A Court of Thorns and Roses series",
+    "rating": 10,
+    "finished": true
+  },
+  {
+    "title": "A Court of Frost and Starligt",
+    "series": "A Court of Thorns and Roses series",
+    "rating": 7,
+    "finished": true
+  },
+  {
+    "title": "A Court of Silver Flames",
+    "series": "A Court of Thorns and Roses series",
+    "rating": 10,
+    "finished": true
+  },
+  {
     "title": "House of Earth and Blood",
+    "series": "Crescent City series",
     "rating": 9,
     "finished": true
   },
   {
     "title": "House of Sky and Breath",
+    "series": "Crescent City series",
     "rating": 9,
     "finished": true
   },
   {
     "title": "House of Flame and Shadow",
+    "series": "Crescent City series",
     "rating": 0,
     "finished": false
   }
